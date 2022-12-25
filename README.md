@@ -13,7 +13,7 @@ This research shows how to simultaneously train and execute the tasks of semanti
 
 ## Instructions
 
-1. Download the NYU Depth V2 dataset from [here](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) and change the path of the dataset in the code </br>
+1. Download the NYU Depth V2 dataset from [here](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) and change the path of the dataset in the code. </br>
 2. Run `python train.py` to train the model. </br>
 3. To run inference on the trained model, run `python inference.py`</br>
 
