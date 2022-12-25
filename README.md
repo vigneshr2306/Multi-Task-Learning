@@ -1,14 +1,15 @@
 # Multi-Task-Learning
 
-This research shows how to simultaneously train and execute the tasks of semantic segmentation and depth estimation using a multi-task deep learning algorithm (like [HydraNet](https://openaccess.thecvf.com/content_cvpr_2018/papers/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf).
+This research shows how to simultaneously train and execute the tasks of semantic segmentation and depth estimation using a multi-task deep learning algorithm (like [HydraNet](https://openaccess.thecvf.com/content_cvpr_2018/papers/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf)).
 
 ## Architecture
 
 ![image](./output/arch.jpeg)
+[Source](https://arxiv.org/pdf/1809.04766.pdf)
 
 ## Output
 
-![video](./output/out.mp4)
+![video](./output/output.gif)
 
 ## Instructions
 
